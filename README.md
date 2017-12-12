@@ -129,4 +129,4 @@ En un primer acercamiento a la página principal de github, sin estar registrado
 
 
 # Sketch
-![Laboratoria-datos](analisis-UX-UI/Laboratoria-datos.png)
+![Laboratoria-datos](Laboratoria-datos.png)
