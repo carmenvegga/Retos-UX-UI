@@ -7,12 +7,17 @@ Proyecto orientado hacia países de Latinoamérica, este sitio web específicame
 
 ### 2.- Definir perfiles de usuarios:
 
-Rango de edad; Mujeres jóvenes de entre 20 y 35 años.
-Nivel de escolaridad: Educación media superior y superior.
-Función o actividad principal: Empleos mal remunerados, recién egresadas, desempleadas.
-Medio ambiente en que se desarrolla el usuario, situación social, política y económica de su entorno: México se encuentra en una transición histórica, las aspiraciones de la nación son alcanzar un régimen político democrático y un desarrollo económico equitativo, en el curso del siglo XX el país ha tenido un sistéma político no democrático que ha procreado una política autoritaria y un estilo de desarrollo económico que reprodujo y amplió la desigualdad social.
+##### Rango de edad;
+Mujeres jóvenes de entre 20 y 35 años.
+##### Nivel de escolaridad:
+Educación media superior y superior.
+##### Función o actividad principal:
+Empleos mal remunerados, recién egresadas, desempleadas.
+##### Medio ambiente en que se desarrolla el usuario, situación social, política y económica de su entorno:
+México se encuentra en una transición histórica, las aspiraciones de la nación son alcanzar un régimen político democrático y un desarrollo económico equitativo, en el curso del siglo XX el país ha tenido un sistéma político no democrático que ha procreado una política autoritaria y un estilo de desarrollo económico que reprodujo y amplió la desigualdad social.
 El progreso tecnológico en comunicaciones y trasnportes, ha modificado las formas tradicionales de organización laboral, la circulación y el consumo de bienes y servicios.
-Necesidades de información, formación, nivel de experiencia sobre la disciplina  de interés: Mujeres con necesidad de desarrollar una carrera en el mundo tech, con un nivel de experiencia nulo en lenguajes de programación y desarrollo web.
+##### Necesidades de información, formación, nivel de experiencia sobre la disciplina  de interés: 
+Mujeres con necesidad de desarrollar una carrera en el mundo tech, con un nivel de experiencia nulo en lenguajes de programación y desarrollo web.
 Mujeres con motivación, persistencia, dispuestas a estudiar, aprender, superar los obstaculos socioculturales, ecónómicos de su contexto, y que desarrollan interés por la tecnología.
 
 ### 3.- Estudio de los Contenidos:
