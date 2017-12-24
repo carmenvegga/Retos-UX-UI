@@ -16,7 +16,7 @@ Empleos mal remunerados, recién egresadas, desempleadas.
 ##### Medio ambiente en que se desarrolla el usuario, situación social, política y económica de su entorno:
 México se encuentra en una transición histórica, las aspiraciones de la nación son alcanzar un régimen político democrático y un desarrollo económico equitativo, en el curso del siglo XX el país ha tenido un sistéma político no democrático que ha procreado una política autoritaria y un estilo de desarrollo económico que reprodujo y amplió la desigualdad social.
 El progreso tecnológico en comunicaciones y trasnportes, ha modificado las formas tradicionales de organización laboral, la circulación y el consumo de bienes y servicios.
-##### Necesidades de información, formación, nivel de experiencia sobre la disciplina  de interés: 
+##### Necesidades de información, formación, nivel de experiencia sobre la disciplina  de interés:
 Mujeres con necesidad de desarrollar una carrera en el mundo tech, con un nivel de experiencia nulo en lenguajes de programación y desarrollo web.
 Mujeres con motivación, persistencia, dispuestas a estudiar, aprender, superar los obstaculos socioculturales, ecónómicos de su contexto, y que desarrollan interés por la tecnología.
 
@@ -81,7 +81,9 @@ A la par de informar a las empresas del talento laboratoria, y de sumarse a la a
 
 ### 5.- Necesidades generales del proyecto:
 Incidir en la brecha de género existente en la comunidad tech, capacitando a mujeres jóvenes para lograr posicionarse en actividades laborales relacionadas con desarrollo web.
+
 Ganar postulantes para seguir con las etapas de educación en bootcamp y educación continua.
+
 Crear alianzas laborales con empresas.
 
 
@@ -153,4 +155,5 @@ En un primer acercamiento a la página principal de github, sin estar registrado
 
 # Sketch dashboard de laboratoria
 
-![Laboratoria Sketch datos](./Laboratoria-datos.png)
+![Laboratoria Sketch primera versión](./Laboratoria-datos.png)
+![Sketch segunda versión](./Sketch-2.png)
