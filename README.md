@@ -153,7 +153,10 @@ Es la navegación adicional, a veces temporal, utilizada para señalar algunas f
 En un primer acercamiento a la página principal de github, sin estar registrado, y al clickar sobre la barra de navegación en la opcion Features, se despliega una sección de texto “How developers work”  mostrando un ícono que representa que hay un video, seguido del texto “New to Github? See how it works”. Al clickar sobre el ícono muestra un video como primer acercamiento para saber qué es Github y cómo se utiliza, mismo que está disponible sólo para usuarios nuevos.
 
 
-# Sketch dashboard de laboratoria
+## Sketch dashboard de laboratoria
 
 ![Laboratoria Sketch primera versión](./Laboratoria-datos.png)
+
+## Segunda versión dashboard
+
 ![Sketch segunda versión](./Sketch-2.png)
